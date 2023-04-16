@@ -1,4 +1,5 @@
 #include<bits/stdc++.h>
+#include <stdio.h>
 using namespace std;
 #ifdef DEB
 #define D if(1)
