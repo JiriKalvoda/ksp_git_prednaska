@@ -7,7 +7,7 @@ using ll = long long;
 
 int main(int argc, char ** argv)
 {
-	print("lgika");
+	print("lgik");
 	return 0;
 }
 
