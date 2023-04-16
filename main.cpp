@@ -11,6 +11,7 @@ using ll = long long;
 
 int main(int argc, char ** argv)
 {
+	print("logika");
 	return 0;
 }
 
